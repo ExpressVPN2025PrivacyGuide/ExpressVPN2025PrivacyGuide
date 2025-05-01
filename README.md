@@ -1,7 +1,7 @@
 ![Trusted](https://img.shields.io/badge/Trusted-100%25-lightgrey?style=plastic&labelColor=lightgrey&color=grey) ![Downloads](https://img.shields.io/badge/Downloads-1M%2B-lightgrey?style=plastic&labelColor=lightgrey&color=grey) ![Release](https://img.shields.io/badge/Release-2025-orange?style=plastic&labelColor=lightgrey&color=orange)  
 <a href="https://github.com/Lumion-12/ExpressVPN2025PrivacyGuide/watchers"><img src="https://img.shields.io/github/watchers/Lumion-12/ExpressVPN2025PrivacyGuide?style=social&label=Watch"></a>
 
-# 🔒 ExpressVPN2025PrivacyGuide
+# 🔒 Express VPN 2025 Privacy Guide
 
 🌍 Navigate the web with confidence using ExpressVPN 2025 PrivacyGuide! This repository offers tutorials, resources, and tips for secure browsing in 2025. Join a community dedicated to protecting your digital life.
 

